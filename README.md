@@ -1,24 +1,11 @@
 <div id="top"></div>
 
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 
 <!-- PROJECT LOGO -->
@@ -178,4 +165,3 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-url]: https://github.com/isaiahmcnealy/LillyTrecker/issues
 [license-shield]: https://img.shields.io/github/license/isaiahmcnealy/LillyTrecker.svg?style=for-the-badge
 [license-url]: https://github.com/isaiahmcnealy/LillyTrecker/blob/master/LICENSE.txt
-[product-screenshot]: 
