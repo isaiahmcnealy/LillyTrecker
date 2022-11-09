@@ -106,7 +106,7 @@ _For more examples, please refer to the [Documentation](url to usefull documenta
 
 - [x] Create GitHub Repo
 - [x] Add Readme
-- [ ] Create Logo
+- [x] Create Logo
 - [ ] Import Figma Design
 - [ ] Create main page
   - [ ] Import Videos
