@@ -11,7 +11,7 @@
 <br />
 <div align="center">
  <a href="https://github.com/isaiahmcnealy/LillyTrecker">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="Mounjaro_Logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">LillyTrecker</h3>
