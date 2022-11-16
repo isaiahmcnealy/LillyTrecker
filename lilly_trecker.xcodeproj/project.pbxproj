@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3BFC6BA029205085007B5123 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFC6B9F29205085007B5123 /* LoginView.swift */; };
+		3BFC6BA42920932C007B5123 /* SignupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFC6BA32920932C007B5123 /* SignupView.swift */; };
+		3BFC6BA62920957F007B5123 /* UserRoleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFC6BA52920957F007B5123 /* UserRoleView.swift */; };
+		3BFC6BA8292095B6007B5123 /* CreateProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFC6BA7292095B6007B5123 /* CreateProfileView.swift */; };
+		3BFC6BB4292331E3007B5123 /* v12044gd0000cbg74e3c77u8ud80lp70.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 3BFC6BB0292331E3007B5123 /* v12044gd0000cbg74e3c77u8ud80lp70.MP4 */; };
+		3BFC6BB5292331E3007B5123 /* v12044gd0000cbp4n6rc77ubj96gjbfg.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 3BFC6BB1292331E3007B5123 /* v12044gd0000cbp4n6rc77ubj96gjbfg.MP4 */; };
+		3BFC6BB6292331E3007B5123 /* v12044gd0000cbhtd6bc77ua5727vmvg.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 3BFC6BB2292331E3007B5123 /* v12044gd0000cbhtd6bc77ua5727vmvg.MP4 */; };
+		3BFC6BB7292331E3007B5123 /* v12044gd0000cc41dorc77udi8lvo07g.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 3BFC6BB3292331E3007B5123 /* v12044gd0000cc41dorc77udi8lvo07g.MP4 */; };
+		3BFC6BB9292335B7007B5123 /* EnhancedVideoPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFC6BB8292335B7007B5123 /* EnhancedVideoPlayer.swift */; };
+		3BFC6BBB29233ED0007B5123 /* VideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFC6BBA29233ED0007B5123 /* VideoView.swift */; };
+		3BFC6BBD29234067007B5123 /* TikTokLogin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFC6BBC29234067007B5123 /* TikTokLogin.swift */; };
 		DA81ACF0291BB85A00C4661C /* lilly_treckerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA81ACEF291BB85A00C4661C /* lilly_treckerApp.swift */; };
 		DA81ACF2291BB85A00C4661C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA81ACF1291BB85A00C4661C /* ContentView.swift */; };
 		DA81ACF4291BB85B00C4661C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA81ACF3291BB85B00C4661C /* Assets.xcassets */; };
@@ -34,6 +45,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3BFC6B9F29205085007B5123 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		3BFC6BA32920932C007B5123 /* SignupView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupView.swift; sourceTree = "<group>"; };
+		3BFC6BA52920957F007B5123 /* UserRoleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRoleView.swift; sourceTree = "<group>"; };
+		3BFC6BA7292095B6007B5123 /* CreateProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateProfileView.swift; sourceTree = "<group>"; };
+		3BFC6BAD29233094007B5123 /* videos */ = {isa = PBXFileReference; lastKnownFileType = folder; name = videos; path = ../../../Downloads/videos; sourceTree = "<group>"; };
+		3BFC6BB0292331E3007B5123 /* v12044gd0000cbg74e3c77u8ud80lp70.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = v12044gd0000cbg74e3c77u8ud80lp70.MP4; sourceTree = "<group>"; };
+		3BFC6BB1292331E3007B5123 /* v12044gd0000cbp4n6rc77ubj96gjbfg.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = v12044gd0000cbp4n6rc77ubj96gjbfg.MP4; sourceTree = "<group>"; };
+		3BFC6BB2292331E3007B5123 /* v12044gd0000cbhtd6bc77ua5727vmvg.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = v12044gd0000cbhtd6bc77ua5727vmvg.MP4; sourceTree = "<group>"; };
+		3BFC6BB3292331E3007B5123 /* v12044gd0000cc41dorc77udi8lvo07g.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = v12044gd0000cc41dorc77udi8lvo07g.MP4; sourceTree = "<group>"; };
+		3BFC6BB8292335B7007B5123 /* EnhancedVideoPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnhancedVideoPlayer.swift; sourceTree = "<group>"; };
+		3BFC6BBA29233ED0007B5123 /* VideoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoView.swift; sourceTree = "<group>"; };
+		3BFC6BBC29234067007B5123 /* TikTokLogin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TikTokLogin.swift; sourceTree = "<group>"; };
 		DA81ACEC291BB85A00C4661C /* lilly_trecker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lilly_trecker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA81ACEF291BB85A00C4661C /* lilly_treckerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lilly_treckerApp.swift; sourceTree = "<group>"; };
 		DA81ACF1291BB85A00C4661C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -71,9 +94,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3BFC6BAF292331E3007B5123 /* videos */ = {
+			isa = PBXGroup;
+			children = (
+				3BFC6BB0292331E3007B5123 /* v12044gd0000cbg74e3c77u8ud80lp70.MP4 */,
+				3BFC6BB1292331E3007B5123 /* v12044gd0000cbp4n6rc77ubj96gjbfg.MP4 */,
+				3BFC6BB2292331E3007B5123 /* v12044gd0000cbhtd6bc77ua5727vmvg.MP4 */,
+				3BFC6BB3292331E3007B5123 /* v12044gd0000cc41dorc77udi8lvo07g.MP4 */,
+			);
+			path = videos;
+			sourceTree = "<group>";
+		};
 		DA81ACE3291BB85A00C4661C = {
 			isa = PBXGroup;
 			children = (
+				3BFC6BAD29233094007B5123 /* videos */,
 				DA81ACEE291BB85A00C4661C /* lilly_trecker */,
 				DA81ACFF291BB85B00C4661C /* lilly_treckerTests */,
 				DA81AD09291BB85B00C4661C /* lilly_treckerUITests */,
@@ -94,10 +129,18 @@
 		DA81ACEE291BB85A00C4661C /* lilly_trecker */ = {
 			isa = PBXGroup;
 			children = (
+				3BFC6BBA29233ED0007B5123 /* VideoView.swift */,
+				3BFC6BAF292331E3007B5123 /* videos */,
 				DA81ACEF291BB85A00C4661C /* lilly_treckerApp.swift */,
 				DA81ACF1291BB85A00C4661C /* ContentView.swift */,
 				DA81ACF3291BB85B00C4661C /* Assets.xcassets */,
 				DA81ACF5291BB85B00C4661C /* Preview Content */,
+				3BFC6B9F29205085007B5123 /* LoginView.swift */,
+				3BFC6BA32920932C007B5123 /* SignupView.swift */,
+				3BFC6BA52920957F007B5123 /* UserRoleView.swift */,
+				3BFC6BA7292095B6007B5123 /* CreateProfileView.swift */,
+				3BFC6BB8292335B7007B5123 /* EnhancedVideoPlayer.swift */,
+				3BFC6BBC29234067007B5123 /* TikTokLogin.swift */,
 			);
 			path = lilly_trecker;
 			sourceTree = "<group>";
@@ -233,6 +276,10 @@
 			files = (
 				DA81ACF7291BB85B00C4661C /* Preview Assets.xcassets in Resources */,
 				DA81ACF4291BB85B00C4661C /* Assets.xcassets in Resources */,
+				3BFC6BB4292331E3007B5123 /* v12044gd0000cbg74e3c77u8ud80lp70.MP4 in Resources */,
+				3BFC6BB7292331E3007B5123 /* v12044gd0000cc41dorc77udi8lvo07g.MP4 in Resources */,
+				3BFC6BB5292331E3007B5123 /* v12044gd0000cbp4n6rc77ubj96gjbfg.MP4 in Resources */,
+				3BFC6BB6292331E3007B5123 /* v12044gd0000cbhtd6bc77ua5727vmvg.MP4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +304,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BFC6BA8292095B6007B5123 /* CreateProfileView.swift in Sources */,
+				3BFC6BBD29234067007B5123 /* TikTokLogin.swift in Sources */,
+				3BFC6BA42920932C007B5123 /* SignupView.swift in Sources */,
+				3BFC6BA029205085007B5123 /* LoginView.swift in Sources */,
 				DA81ACF2291BB85A00C4661C /* ContentView.swift in Sources */,
+				3BFC6BBB29233ED0007B5123 /* VideoView.swift in Sources */,
 				DA81ACF0291BB85A00C4661C /* lilly_treckerApp.swift in Sources */,
+				3BFC6BB9292335B7007B5123 /* EnhancedVideoPlayer.swift in Sources */,
+				3BFC6BA62920957F007B5123 /* UserRoleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
